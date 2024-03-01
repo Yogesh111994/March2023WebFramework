@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="TestNG Regression Suite" verbose="3" thread-count="3" parallel="tests">
+<suite name="TestNG Regression Suite" verbose="3" thread-count="4" parallel="tests">
 	<listeners>
 		<listener class-name="com.qa.opencart.listener.ExtentReportListener"></listener>
 		<listener class-name="com.qa.opencart.listener.TestAllureListener"></listener>
@@ -15,7 +15,7 @@
 		</classes>
 	</test>
 	
-<!--	<test name="Account page test">
+	<test name="Account page test">
 	<parameter name="browser" value="chrome"></parameter>
 		<classes>
 			<class name="com.qa.opencart.test.AccountPageTest" />
@@ -23,18 +23,18 @@
 	</test>
 	
 	<test name="Product result  page test">
-		<parameter name="browser" value="firefox"></parameter>
+		<parameter name="browser" value="chrome"></parameter>
 		<classes>
 			<class name="com.qa.opencart.test.ProductResultPageTest" />
 		</classes>
 	</test>
 	
 	<test name="User registration page">
-		<parameter name="browser" value="edge"></parameter>
+		<parameter name="browser" value="chrome"></parameter>
 		<classes>
 			<class name="com.qa.opencart.test.UserRegistrationTest" />
 		</classes>
-	</test>-->
+	</test>
 	
 	
 </suite>
