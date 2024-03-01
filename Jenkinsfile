@@ -89,7 +89,7 @@ pipeline
             }
         }
         
-       git               stage('Publish sanity Extent Report'){
+                     stage('Publish sanity Extent Report'){
             steps{
                      publishHTML([allowMissing: false,
                                   alwaysLinkToLastBuild: false, 
