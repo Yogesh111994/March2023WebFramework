@@ -28,8 +28,8 @@ public class BaseTest {
 	protected SoftAssert softAssert;
 	protected UserRegistartionPage userRegistartionPage;
 
-	@Parameters({"browser","browserVersion","testname"})
-	
+	@Parameters({"browser","browserversion","testname"})
+	       
 	@BeforeTest
 	public void setup(String browserName,String browserVersion,String testName) {
 		df = new DriverFactory();
