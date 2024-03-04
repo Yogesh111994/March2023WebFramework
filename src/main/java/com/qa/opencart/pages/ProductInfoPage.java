@@ -5,6 +5,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -19,6 +21,7 @@ public class ProductInfoPage {
 	private ElementUtil eleUtil;
 	private JavaScriptUtil javaScriptUtil;
 
+	public static final Logger log = LogManager.getLogger(ProductInfoPage.class);
 	public ProductInfoPage(WebDriver driver) {
 		this.driver = driver;
 		eleUtil = new ElementUtil(this.driver);
@@ -36,7 +39,8 @@ public class ProductInfoPage {
 
 	public String getProductName() {
 		String productName = eleUtil.waitForVisibilityOfElement(productname, AppConstant.DEFAULT_MEDIUM_WAIT).getText();
-		System.out.println(productName);
+		// System.out.println(productName);
+		log.info(productName);
 		return productName;
 	}
 

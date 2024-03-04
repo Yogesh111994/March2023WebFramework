@@ -2,12 +2,15 @@ package com.qa.opencart.test;
 
 import java.util.List;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import com.qa.opencart.base.BaseTest;
 import com.qa.opencart.constants.AppConstant;
+import com.qa.opencart.pages.SearchResultPage;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Severity;
@@ -17,6 +20,8 @@ import io.qameta.allure.SeverityLevel;
 
 public class AccountPageTest extends BaseTest {
 
+	public static final Logger log = LogManager.getLogger(AccountPageTest.class);
+	
 	@Description("Setup method for Account page")
 	@Severity(SeverityLevel.BLOCKER)
 	@BeforeClass

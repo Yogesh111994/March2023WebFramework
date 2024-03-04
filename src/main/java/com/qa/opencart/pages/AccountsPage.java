@@ -3,6 +3,8 @@ package com.qa.opencart.pages;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -16,7 +18,8 @@ public class AccountsPage {
 
 	private WebDriver driver;
 	private ElementUtil eleUtil;
-
+	
+	public static final Logger log = LogManager.getLogger(LoginPage.class);
 	public AccountsPage(WebDriver driver) {
 		this.driver = driver;
 		eleUtil = new ElementUtil(this.driver);
