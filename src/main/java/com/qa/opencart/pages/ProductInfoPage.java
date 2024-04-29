@@ -25,7 +25,7 @@ public class ProductInfoPage {
 	public ProductInfoPage(WebDriver driver) {
 		this.driver = driver;
 		eleUtil = new ElementUtil(this.driver);
-		javaScriptUtil = new JavaScriptUtil(driver);
+		javaScriptUtil = new JavaScriptUtil(this.driver);
 	}
 
 	Map<String, String> productMap = new HashMap<String, String>();

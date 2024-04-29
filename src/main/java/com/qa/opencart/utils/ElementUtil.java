@@ -498,6 +498,7 @@ public class ElementUtil {
 	 * @param timeOut
 	 * @return
 	 */
+	@Step("wait for element to visible:{0} with timeout:{1}")
 	public WebElement waitForVisibilityOfElement(By locator, int timeOut) {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(timeOut));
 		WebElement element= wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
@@ -742,7 +743,7 @@ public class ElementUtil {
 		isHighlight(element);
 		return element;
 	}
-
+	
 	public boolean isPageLoaded(int timeOut) {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(timeOut));
 		String flag = wait.until(ExpectedConditions.jsReturnsValue("return document.readyState === 'complete'"))

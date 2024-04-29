@@ -28,6 +28,7 @@ public class LoginPageTest extends BaseTest {
 		String actTitle = loginPage.getLoginPageTitle();
 		Assert.assertEquals(actTitle, "Account Login");
 	}
+
 	@Description("Login page Url test")
 	@Severity(SeverityLevel.MINOR)
 	@Test(priority = 2)
@@ -48,6 +49,13 @@ public class LoginPageTest extends BaseTest {
 	@Test(priority = 4)
 	public void isLogoExistTest() {
 		Assert.assertTrue(loginPage.isLogoExist());
+	}
+
+	@Description("Validate the seach field is exists")
+	@Severity(SeverityLevel.MINOR)
+	@Test(priority = 4)
+	public void searchFieldExistTest() {
+		Assert.assertTrue(loginPage.searchFieldExist());
 	}
 
 	@Description("User successfully login with valid credential")

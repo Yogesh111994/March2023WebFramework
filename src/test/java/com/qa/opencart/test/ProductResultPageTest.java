@@ -11,6 +11,10 @@ import org.testng.annotations.Test;
 import com.qa.opencart.base.BaseTest;
 import com.qa.opencart.constants.AppConstant;
 
+import io.qameta.allure.Description;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
+
 public class ProductResultPageTest extends BaseTest {
 
 	@BeforeClass
@@ -27,7 +31,8 @@ public class ProductResultPageTest extends BaseTest {
 			{"samsung","Samsung SyncMaster 941BW",1}
 		};
 	}
-	
+	@Severity(SeverityLevel.CRITICAL)
+	@Description("Get the product image count")
 	@Test(dataProvider="productData")
 	public void getImageCountTest(String searchKey,String productName, int imageCount) {
 		searchResultPage  = accountPage.doSearchResult(searchKey);
@@ -51,6 +56,7 @@ public class ProductResultPageTest extends BaseTest {
 		softAssert.assertEquals(productInfo.get("productExtraPrice"), "$2,000.00");
 		softAssert.assertAll();
 	}
+	
 	@Test
 	public void footerLinkTest() {
 		searchResultPage  = accountPage.doSearchResult("MacBook");
