@@ -436,3 +436,195 @@
 2024-04-28 10:31:13 INFO  LoginPage:42 - Login page Url : https://naveenautomationlabs.com/opencart/index.php?route=account/login
 2024-04-28 10:31:14 INFO  LoginPage:61 - Username: yogeshautomation@gmail.compassword :test@123
 2024-04-28 10:31:15 INFO  LoginPage:66 - user logged in
+2024-05-20 15:09:35 INFO  DriverFactory:137 - Test running on :null
+2024-05-20 15:09:35 INFO  DriverFactory:137 - Test running on :null
+2024-05-20 15:09:35 INFO  DriverFactory:137 - Test running on :null
+2024-05-20 15:09:35 INFO  DriverFactory:137 - Test running on :null
+2024-05-20 15:09:35 WARN  DriverFactory:142 - Test are running on default enviounment because env is:null
+2024-05-20 15:09:35 WARN  DriverFactory:142 - Test are running on default enviounment because env is:null
+2024-05-20 15:09:35 WARN  DriverFactory:142 - Test are running on default enviounment because env is:null
+2024-05-20 15:09:35 WARN  DriverFactory:142 - Test are running on default enviounment because env is:null
+2024-05-20 15:09:35 INFO  DriverFactory:170 - {headless=false, highlight=false, password=test@123, browser=chrome, browserVersion=, incognito=false, testname=, remote=true, userId=yogeshautomation@gmail.com, huburl=http://65.1.3.233:4444/wd/hub  , url=https://naveenautomationlabs.com/opencart/index.php?route=account/login}
+2024-05-20 15:09:35 INFO  DriverFactory:170 - {headless=false, highlight=false, password=test@123, browser=chrome, browserVersion=, incognito=false, testname=, remote=true, userId=yogeshautomation@gmail.com, huburl=http://65.1.3.233:4444/wd/hub  , url=https://naveenautomationlabs.com/opencart/index.php?route=account/login}
+2024-05-20 15:09:35 INFO  DriverFactory:44 - The browser name is : chrome
+2024-05-20 15:09:35 INFO  DriverFactory:170 - {headless=false, highlight=false, password=test@123, browser=chrome, browserVersion=, incognito=false, testname=, remote=true, userId=yogeshautomation@gmail.com, huburl=http://65.1.3.233:4444/wd/hub  , url=https://naveenautomationlabs.com/opencart/index.php?route=account/login}
+2024-05-20 15:09:35 INFO  DriverFactory:170 - {headless=false, highlight=false, password=test@123, browser=chrome, browserVersion=, incognito=false, testname=, remote=true, userId=yogeshautomation@gmail.com, huburl=http://65.1.3.233:4444/wd/hub  , url=https://naveenautomationlabs.com/opencart/index.php?route=account/login}
+2024-05-20 15:09:35 INFO  DriverFactory:44 - The browser name is : chrome
+2024-05-20 15:09:35 INFO  DriverFactory:44 - The browser name is : chrome
+2024-05-20 15:09:35 INFO  DriverFactory:44 - The browser name is : chrome
+2024-05-20 15:09:36 INFO  DriverFactory:49 - Running it on remote chrome browser
+2024-05-20 15:09:36 INFO  DriverFactory:49 - Running it on remote chrome browser
+2024-05-20 15:09:36 INFO  DriverFactory:49 - Running it on remote chrome browser
+2024-05-20 15:09:36 INFO  DriverFactory:108 - Running test on grid with browser: chrome
+2024-05-20 15:09:36 INFO  DriverFactory:108 - Running test on grid with browser: chrome
+2024-05-20 15:09:36 INFO  DriverFactory:49 - Running it on remote chrome browser
+2024-05-20 15:09:36 INFO  DriverFactory:108 - Running test on grid with browser: chrome
+2024-05-20 15:09:36 INFO  DriverFactory:108 - Running test on grid with browser: chrome
+2024-05-20 15:09:36 INFO  DriverFactory:137 - Test running on :null
+2024-05-20 15:09:36 INFO  DriverFactory:137 - Test running on :null
+2024-05-20 15:09:36 INFO  DriverFactory:137 - Test running on :null
+2024-05-20 15:09:37 WARN  DriverFactory:142 - Test are running on default enviounment because env is:null
+2024-05-20 15:09:37 WARN  DriverFactory:142 - Test are running on default enviounment because env is:null
+2024-05-20 15:09:36 INFO  DriverFactory:137 - Test running on :null
+2024-05-20 15:09:37 WARN  DriverFactory:142 - Test are running on default enviounment because env is:null
+2024-05-20 15:09:37 WARN  DriverFactory:142 - Test are running on default enviounment because env is:null
+2024-05-20 15:09:37 INFO  DriverFactory:170 - {headless=false, highlight=false, password=test@123, browser=chrome, browserVersion=, incognito=false, testname=, remote=true, userId=yogeshautomation@gmail.com, huburl=http://65.1.3.233:4444/wd/hub  , url=https://naveenautomationlabs.com/opencart/index.php?route=account/login}
+2024-05-20 15:09:37 INFO  DriverFactory:170 - {headless=false, highlight=false, password=test@123, browser=chrome, browserVersion=, incognito=false, testname=, remote=true, userId=yogeshautomation@gmail.com, huburl=http://65.1.3.233:4444/wd/hub  , url=https://naveenautomationlabs.com/opencart/index.php?route=account/login}
+2024-05-20 15:09:37 INFO  DriverFactory:44 - The browser name is : chrome
+2024-05-20 15:09:37 INFO  DriverFactory:170 - {headless=false, highlight=false, password=test@123, browser=chrome, browserVersion=, incognito=false, testname=, remote=true, userId=yogeshautomation@gmail.com, huburl=http://65.1.3.233:4444/wd/hub  , url=https://naveenautomationlabs.com/opencart/index.php?route=account/login}
+2024-05-20 15:09:37 INFO  DriverFactory:44 - The browser name is : chrome
+2024-05-20 15:09:37 INFO  DriverFactory:170 - {headless=false, highlight=false, password=test@123, browser=chrome, browserVersion=, incognito=false, testname=, remote=true, userId=yogeshautomation@gmail.com, huburl=http://65.1.3.233:4444/wd/hub  , url=https://naveenautomationlabs.com/opencart/index.php?route=account/login}
+2024-05-20 15:09:37 INFO  DriverFactory:44 - The browser name is : chrome
+2024-05-20 15:09:37 INFO  DriverFactory:44 - The browser name is : chrome
+2024-05-20 15:09:37 INFO  DriverFactory:49 - Running it on remote chrome browser
+2024-05-20 15:09:37 INFO  DriverFactory:49 - Running it on remote chrome browser
+2024-05-20 15:09:37 INFO  DriverFactory:108 - Running test on grid with browser: chrome
+2024-05-20 15:09:37 INFO  DriverFactory:108 - Running test on grid with browser: chrome
+2024-05-20 15:09:37 INFO  DriverFactory:49 - Running it on remote chrome browser
+2024-05-20 15:09:37 INFO  DriverFactory:108 - Running test on grid with browser: chrome
+2024-05-20 15:09:37 INFO  DriverFactory:49 - Running it on remote chrome browser
+2024-05-20 15:09:37 INFO  DriverFactory:108 - Running test on grid with browser: chrome
+2024-05-20 15:09:39 DEBUG InternalLoggerFactory:76 - Using Log4J2 as the default logging framework
+2024-05-20 15:09:39 DEBUG ResourceLeakDetector:129 - -Dio.netty.leakDetection.level: simple
+2024-05-20 15:09:39 DEBUG ResourceLeakDetector:130 - -Dio.netty.leakDetection.targetRecords: 4
+2024-05-20 15:09:39 DEBUG ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@265fe25b
+2024-05-20 15:09:40 DEBUG InternalLoggerFactory:76 - Using Log4J2 as the default logging framework
+2024-05-20 15:09:40 DEBUG PlatformDependent0:497 - -Dio.netty.noUnsafe: false
+2024-05-20 15:09:40 DEBUG PlatformDependent0:1001 - Java version: 11
+2024-05-20 15:09:40 DEBUG PlatformDependent0:137 - sun.misc.Unsafe.theUnsafe: available
+2024-05-20 15:09:40 DEBUG PlatformDependent0:161 - sun.misc.Unsafe.copyMemory: available
+2024-05-20 15:09:40 DEBUG PlatformDependent0:193 - sun.misc.Unsafe.storeFence: available
+2024-05-20 15:09:40 DEBUG PlatformDependent0:236 - java.nio.Buffer.address: available
+2024-05-20 15:09:40 DEBUG PlatformDependent0:321 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2024-05-20 15:09:40 DEBUG PlatformDependent0:386 - java.nio.Bits.unaligned: available, true
+2024-05-20 15:09:40 DEBUG PlatformDependent0:453 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @5e853265
+2024-05-20 15:09:40 DEBUG ResourceLeakDetector:129 - -Dio.netty.leakDetection.level: simple
+2024-05-20 15:09:40 DEBUG ResourceLeakDetector:130 - -Dio.netty.leakDetection.targetRecords: 4
+2024-05-20 15:09:40 DEBUG PlatformDependent0:483 - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+2024-05-20 15:09:40 DEBUG PlatformDependent:1159 - sun.misc.Unsafe: available
+2024-05-20 15:09:40 DEBUG PlatformDependent:1270 - maxDirectMemory: 2122317824 bytes (maybe)
+2024-05-20 15:09:40 DEBUG PlatformDependent:1289 - -Dio.netty.tmpdir: C:\Users\MANGES~1\AppData\Local\Temp (java.io.tmpdir)
+2024-05-20 15:09:40 DEBUG PlatformDependent:1368 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2024-05-20 15:09:40 DEBUG PlatformDependent:1119 - Platform: Windows
+2024-05-20 15:09:40 DEBUG PlatformDependent:178 - -Dio.netty.maxDirectMemory: -1 bytes
+2024-05-20 15:09:40 DEBUG PlatformDependent:185 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2024-05-20 15:09:40 DEBUG CleanerJava9:71 - java.nio.ByteBuffer.cleaner(): available
+2024-05-20 15:09:40 DEBUG PlatformDependent:205 - -Dio.netty.noPreferDirect: false
+2024-05-20 15:09:40 DEBUG ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3a50d72f
+2024-05-20 15:09:40 DEBUG PlatformDependent:1010 - org.jctools-core.MpscChunkedArrayQueue: available
+2024-05-20 15:09:41 DEBUG PlatformDependent0:497 - -Dio.netty.noUnsafe: false
+2024-05-20 15:09:41 DEBUG PlatformDependent0:1001 - Java version: 11
+2024-05-20 15:09:41 DEBUG PlatformDependent0:137 - sun.misc.Unsafe.theUnsafe: available
+2024-05-20 15:09:41 DEBUG PlatformDependent0:161 - sun.misc.Unsafe.copyMemory: available
+2024-05-20 15:09:41 DEBUG InternalThreadLocalMap:100 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2024-05-20 15:09:41 DEBUG InternalThreadLocalMap:101 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2024-05-20 15:09:41 DEBUG PlatformDependent0:193 - sun.misc.Unsafe.storeFence: available
+2024-05-20 15:09:41 DEBUG PlatformDependent0:236 - java.nio.Buffer.address: available
+2024-05-20 15:09:41 DEBUG PlatformDependent0:321 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2024-05-20 15:09:41 DEBUG PlatformDependent0:386 - java.nio.Bits.unaligned: available, true
+2024-05-20 15:09:41 DEBUG PlatformDependent0:453 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @2bd08376
+2024-05-20 15:09:41 DEBUG PlatformDependent0:483 - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+2024-05-20 15:09:41 DEBUG PlatformDependent:1159 - sun.misc.Unsafe: available
+2024-05-20 15:09:41 DEBUG PlatformDependent:1270 - maxDirectMemory: 2122317824 bytes (maybe)
+2024-05-20 15:09:41 DEBUG PlatformDependent:1289 - -Dio.netty.tmpdir: C:\Users\MANGES~1\AppData\Local\Temp (java.io.tmpdir)
+2024-05-20 15:09:41 DEBUG PlatformDependent:1368 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2024-05-20 15:09:41 DEBUG PlatformDependent:1119 - Platform: Windows
+2024-05-20 15:09:41 DEBUG PlatformDependent:178 - -Dio.netty.maxDirectMemory: -1 bytes
+2024-05-20 15:09:41 DEBUG PlatformDependent:185 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2024-05-20 15:09:41 DEBUG CleanerJava9:71 - java.nio.ByteBuffer.cleaner(): available
+2024-05-20 15:09:41 DEBUG PlatformDependent:205 - -Dio.netty.noPreferDirect: false
+2024-05-20 15:09:41 DEBUG PlatformDependent:1010 - org.jctools-core.MpscChunkedArrayQueue: available
+2024-05-20 15:09:42 DEBUG InternalThreadLocalMap:100 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2024-05-20 15:09:42 DEBUG InternalThreadLocalMap:101 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2024-05-20 15:09:44 DEBUG JdkSslContext:83 - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2024-05-20 15:09:44 DEBUG JdkSslContext:84 - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2024-05-20 15:09:44 DEBUG JdkSslContext:83 - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2024-05-20 15:09:44 DEBUG JdkSslContext:84 - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2024-05-20 15:09:44 DEBUG GlobalEventExecutor:53 - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2024-05-20 15:09:44 DEBUG GlobalEventExecutor:53 - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2024-05-20 15:09:44 DEBUG MultithreadEventLoopGroup:44 - -Dio.netty.eventLoopThreads: 8
+2024-05-20 15:09:44 DEBUG MultithreadEventLoopGroup:44 - -Dio.netty.eventLoopThreads: 8
+2024-05-20 15:09:45 DEBUG NioEventLoop:110 - -Dio.netty.noKeySetOptimization: false
+2024-05-20 15:09:45 DEBUG NioEventLoop:111 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2024-05-20 15:09:45 DEBUG NioEventLoop:110 - -Dio.netty.noKeySetOptimization: false
+2024-05-20 15:09:45 DEBUG NioEventLoop:111 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2024-05-20 15:09:45 DEBUG PooledByteBufAllocator:157 - -Dio.netty.allocator.numHeapArenas: 8
+2024-05-20 15:09:45 DEBUG PooledByteBufAllocator:158 - -Dio.netty.allocator.numDirectArenas: 8
+2024-05-20 15:09:45 DEBUG PooledByteBufAllocator:160 - -Dio.netty.allocator.pageSize: 8192
+2024-05-20 15:09:45 DEBUG PooledByteBufAllocator:165 - -Dio.netty.allocator.maxOrder: 9
+2024-05-20 15:09:45 DEBUG PooledByteBufAllocator:169 - -Dio.netty.allocator.chunkSize: 4194304
+2024-05-20 15:09:45 DEBUG PooledByteBufAllocator:170 - -Dio.netty.allocator.smallCacheSize: 256
+2024-05-20 15:09:45 DEBUG PooledByteBufAllocator:171 - -Dio.netty.allocator.normalCacheSize: 64
+2024-05-20 15:09:45 DEBUG PooledByteBufAllocator:172 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2024-05-20 15:09:45 DEBUG PooledByteBufAllocator:173 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2024-05-20 15:09:45 DEBUG PooledByteBufAllocator:174 - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2024-05-20 15:09:45 DEBUG PooledByteBufAllocator:175 - -Dio.netty.allocator.useCacheForAllThreads: false
+2024-05-20 15:09:45 DEBUG PooledByteBufAllocator:176 - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2024-05-20 15:09:45 DEBUG ByteBufUtil:89 - -Dio.netty.allocator.type: pooled
+2024-05-20 15:09:45 DEBUG ByteBufUtil:98 - -Dio.netty.threadLocalDirectBufferSize: 0
+2024-05-20 15:09:45 DEBUG ByteBufUtil:101 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2024-05-20 15:09:46 DEBUG PooledByteBufAllocator:157 - -Dio.netty.allocator.numHeapArenas: 8
+2024-05-20 15:09:46 DEBUG PooledByteBufAllocator:158 - -Dio.netty.allocator.numDirectArenas: 8
+2024-05-20 15:09:46 DEBUG PooledByteBufAllocator:160 - -Dio.netty.allocator.pageSize: 8192
+2024-05-20 15:09:46 DEBUG PooledByteBufAllocator:165 - -Dio.netty.allocator.maxOrder: 9
+2024-05-20 15:09:46 DEBUG PooledByteBufAllocator:169 - -Dio.netty.allocator.chunkSize: 4194304
+2024-05-20 15:09:46 DEBUG PooledByteBufAllocator:170 - -Dio.netty.allocator.smallCacheSize: 256
+2024-05-20 15:09:46 DEBUG PooledByteBufAllocator:171 - -Dio.netty.allocator.normalCacheSize: 64
+2024-05-20 15:09:46 DEBUG PooledByteBufAllocator:172 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2024-05-20 15:09:46 DEBUG PooledByteBufAllocator:173 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2024-05-20 15:09:46 DEBUG PooledByteBufAllocator:174 - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2024-05-20 15:09:46 DEBUG PooledByteBufAllocator:175 - -Dio.netty.allocator.useCacheForAllThreads: false
+2024-05-20 15:09:46 DEBUG PooledByteBufAllocator:176 - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2024-05-20 15:09:47 DEBUG ByteBufUtil:89 - -Dio.netty.allocator.type: pooled
+2024-05-20 15:09:47 DEBUG ByteBufUtil:98 - -Dio.netty.threadLocalDirectBufferSize: 0
+2024-05-20 15:09:47 DEBUG ByteBufUtil:101 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2024-05-20 15:09:51 DEBUG DefaultChannelId:79 - -Dio.netty.processId: 17176 (auto-detected)
+2024-05-20 15:09:51 DEBUG NetUtil:148 - -Djava.net.preferIPv4Stack: false
+2024-05-20 15:09:51 DEBUG NetUtil:149 - -Djava.net.preferIPv6Addresses: false
+2024-05-20 15:09:52 DEBUG DefaultChannelId:79 - -Dio.netty.processId: 19480 (auto-detected)
+2024-05-20 15:09:52 DEBUG NetUtil:148 - -Djava.net.preferIPv4Stack: false
+2024-05-20 15:09:52 DEBUG NetUtil:149 - -Djava.net.preferIPv6Addresses: false
+2024-05-20 15:09:53 DEBUG NetUtilInitializations:145 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2024-05-20 15:09:53 DEBUG NetUtil:206 - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2024-05-20 15:09:53 DEBUG DefaultChannelId:101 - -Dio.netty.machineId: 58:00:e3:ff:fe:d6:21:f1 (auto-detected)
+2024-05-20 15:09:53 DEBUG AbstractByteBuf:63 - -Dio.netty.buffer.checkAccessible: true
+2024-05-20 15:09:53 DEBUG AbstractByteBuf:64 - -Dio.netty.buffer.checkBounds: true
+2024-05-20 15:09:53 DEBUG ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@10341b5b
+2024-05-20 15:09:54 DEBUG Recycler:96 - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2024-05-20 15:09:54 DEBUG Recycler:97 - -Dio.netty.recycler.ratio: 8
+2024-05-20 15:09:54 DEBUG Recycler:98 - -Dio.netty.recycler.chunkSize: 32
+2024-05-20 15:09:54 DEBUG Recycler:99 - -Dio.netty.recycler.blocking: false
+2024-05-20 15:09:54 DEBUG Recycler:100 - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2024-05-20 15:09:54 DEBUG NetUtilInitializations:145 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2024-05-20 15:09:54 DEBUG NetUtil:206 - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2024-05-20 15:09:54 DEBUG DefaultChannelId:101 - -Dio.netty.machineId: 58:00:e3:ff:fe:d6:21:f1 (auto-detected)
+2024-05-20 15:09:55 DEBUG AbstractByteBuf:63 - -Dio.netty.buffer.checkAccessible: true
+2024-05-20 15:09:55 DEBUG AbstractByteBuf:64 - -Dio.netty.buffer.checkBounds: true
+2024-05-20 15:09:55 DEBUG ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4995605
+2024-05-20 15:09:55 DEBUG Recycler:96 - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2024-05-20 15:09:55 DEBUG Recycler:97 - -Dio.netty.recycler.ratio: 8
+2024-05-20 15:09:55 DEBUG Recycler:98 - -Dio.netty.recycler.chunkSize: 32
+2024-05-20 15:09:55 DEBUG Recycler:99 - -Dio.netty.recycler.blocking: false
+2024-05-20 15:09:55 DEBUG Recycler:100 - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2024-05-20 15:09:58 DEBUG Brotli:38 - brotli4j not in the classpath; Brotli support will be unavailable.
+2024-05-20 15:09:59 DEBUG Brotli:38 - brotli4j not in the classpath; Brotli support will be unavailable.
+2024-05-20 15:10:03 INFO  LoginPage:34 - Login page title :" + title
+2024-05-20 15:10:03 INFO  LoginPage:61 - Username: yogeshautomation@gmail.compassword :test@123
+2024-05-20 15:10:03 INFO  LoginPage:61 - Username: yogeshautomation@gmail.compassword :test@123
+2024-05-20 15:10:04 INFO  LoginPage:42 - Login page Url : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-05-20 15:10:05 INFO  LoginPage:61 - Username: yogeshautomation@gmail.compassword :test@123
+2024-05-20 15:10:05 INFO  LoginPage:66 - user logged in
+2024-05-20 15:10:06 INFO  LoginPage:61 - Username: yogeshautomation@gmail.compassword :test@123
+2024-05-20 15:10:06 INFO  LoginPage:66 - user logged in
+2024-05-20 15:10:06 INFO  LoginPage:66 - user logged in
+2024-05-20 15:10:08 INFO  LoginPage:66 - user logged in
+2024-05-20 15:10:11 INFO  ProductInfoPage:43 - MacBook Pro
+2024-05-20 15:10:13 INFO  LoginPage:34 - Login page title :" + title
+2024-05-20 15:10:13 INFO  LoginPage:42 - Login page Url : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-05-20 15:10:14 INFO  LoginPage:61 - Username: yogeshautomation@gmail.compassword :test@123
+2024-05-20 15:10:15 INFO  ProductInfoPage:43 - MacBook Pro
+2024-05-20 15:10:17 INFO  LoginPage:66 - user logged in
+2024-05-20 15:10:20 INFO  LoginPage:61 - Username: yogeshautomation@gmail.compassword :test@123
+2024-05-20 15:10:23 INFO  LoginPage:66 - user logged in
+2024-05-20 15:10:29 INFO  ProductInfoPage:43 - MacBook Pro
+2024-05-20 15:10:43 INFO  ProductInfoPage:43 - MacBook Pro
