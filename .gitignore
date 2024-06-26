@@ -4,6 +4,8 @@ target
 screenshot/
 reports/
 application.log
+logs
+logs/opencart.log
 ##############################
 ## Java
 ##############################

@@ -10,7 +10,6 @@ import org.testng.annotations.Test;
 
 import com.qa.opencart.base.BaseTest;
 import com.qa.opencart.constants.AppConstant;
-import com.qa.opencart.pages.SearchResultPage;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Severity;
